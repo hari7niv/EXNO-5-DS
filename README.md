@@ -18,7 +18,6 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
-# Coding and Output:
 import matplotlib.pyplot as plt
 
 x1=[1,2,3]
